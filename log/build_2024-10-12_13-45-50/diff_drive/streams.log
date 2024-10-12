@@ -1,0 +1,42 @@
+[0.017s] Invoking command in '/home/surabhi/Nav2PathFinder/build/diff_drive': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/surabhi/colcon_ws/install/ur5_control:/home/surabhi/turtlesim_spiral/install/turtle_controller:/opt/ros/humble /usr/bin/cmake /home/surabhi/Nav2PathFinder/src/diff_drive -DCMAKE_INSTALL_PREFIX=/home/surabhi/Nav2PathFinder/install/diff_drive
+[0.228s] -- The C compiler identification is GNU 11.4.0
+[0.380s] -- The CXX compiler identification is GNU 11.4.0
+[0.397s] -- Detecting C compiler ABI info
+[0.491s] -- Detecting C compiler ABI info - done
+[0.495s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.495s] -- Detecting C compile features
+[0.497s] -- Detecting C compile features - done
+[0.501s] -- Detecting CXX compiler ABI info
+[0.604s] -- Detecting CXX compiler ABI info - done
+[0.608s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.608s] -- Detecting CXX compile features
+[0.608s] -- Detecting CXX compile features - done
+[0.623s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.785s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.931s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.033s] -- Added test 'lint_cmake' to check CMake code style
+[1.036s] -- Added test 'xmllint' to check XML markup files
+[1.037s] -- Configuring done
+[1.041s] -- Generating done
+[1.041s] -- Build files have been written to: /home/surabhi/Nav2PathFinder/build/diff_drive
+[1.045s] Invoked command in '/home/surabhi/Nav2PathFinder/build/diff_drive' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/surabhi/colcon_ws/install/ur5_control:/home/surabhi/turtlesim_spiral/install/turtle_controller:/opt/ros/humble /usr/bin/cmake /home/surabhi/Nav2PathFinder/src/diff_drive -DCMAKE_INSTALL_PREFIX=/home/surabhi/Nav2PathFinder/install/diff_drive
+[1.048s] Invoking command in '/home/surabhi/Nav2PathFinder/build/diff_drive': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/surabhi/colcon_ws/install/ur5_control:/home/surabhi/turtlesim_spiral/install/turtle_controller:/opt/ros/humble /usr/bin/cmake --build /home/surabhi/Nav2PathFinder/build/diff_drive -- -j4 -l4
+[1.096s] Invoked command in '/home/surabhi/Nav2PathFinder/build/diff_drive' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/surabhi/colcon_ws/install/ur5_control:/home/surabhi/turtlesim_spiral/install/turtle_controller:/opt/ros/humble /usr/bin/cmake --build /home/surabhi/Nav2PathFinder/build/diff_drive -- -j4 -l4
+[1.142s] Invoking command in '/home/surabhi/Nav2PathFinder/build/diff_drive': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/surabhi/colcon_ws/install/ur5_control:/home/surabhi/turtlesim_spiral/install/turtle_controller:/opt/ros/humble /usr/bin/cmake --install /home/surabhi/Nav2PathFinder/build/diff_drive
+[1.151s] -- Install configuration: ""
+[1.151s] -- Installing: /home/surabhi/Nav2PathFinder/install/diff_drive/share/ament_index/resource_index/package_run_dependencies/diff_drive
+[1.151s] -- Installing: /home/surabhi/Nav2PathFinder/install/diff_drive/share/ament_index/resource_index/parent_prefix_path/diff_drive
+[1.151s] -- Installing: /home/surabhi/Nav2PathFinder/install/diff_drive/share/diff_drive/environment/ament_prefix_path.sh
+[1.151s] -- Installing: /home/surabhi/Nav2PathFinder/install/diff_drive/share/diff_drive/environment/ament_prefix_path.dsv
+[1.152s] -- Installing: /home/surabhi/Nav2PathFinder/install/diff_drive/share/diff_drive/environment/path.sh
+[1.152s] -- Installing: /home/surabhi/Nav2PathFinder/install/diff_drive/share/diff_drive/environment/path.dsv
+[1.152s] -- Installing: /home/surabhi/Nav2PathFinder/install/diff_drive/share/diff_drive/local_setup.bash
+[1.152s] -- Installing: /home/surabhi/Nav2PathFinder/install/diff_drive/share/diff_drive/local_setup.sh
+[1.152s] -- Installing: /home/surabhi/Nav2PathFinder/install/diff_drive/share/diff_drive/local_setup.zsh
+[1.153s] -- Installing: /home/surabhi/Nav2PathFinder/install/diff_drive/share/diff_drive/local_setup.dsv
+[1.153s] -- Installing: /home/surabhi/Nav2PathFinder/install/diff_drive/share/diff_drive/package.dsv
+[1.153s] -- Installing: /home/surabhi/Nav2PathFinder/install/diff_drive/share/ament_index/resource_index/packages/diff_drive
+[1.154s] -- Installing: /home/surabhi/Nav2PathFinder/install/diff_drive/share/diff_drive/cmake/diff_driveConfig.cmake
+[1.154s] -- Installing: /home/surabhi/Nav2PathFinder/install/diff_drive/share/diff_drive/cmake/diff_driveConfig-version.cmake
+[1.154s] -- Installing: /home/surabhi/Nav2PathFinder/install/diff_drive/share/diff_drive/package.xml
+[1.158s] Invoked command in '/home/surabhi/Nav2PathFinder/build/diff_drive' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/surabhi/colcon_ws/install/ur5_control:/home/surabhi/turtlesim_spiral/install/turtle_controller:/opt/ros/humble /usr/bin/cmake --install /home/surabhi/Nav2PathFinder/build/diff_drive
